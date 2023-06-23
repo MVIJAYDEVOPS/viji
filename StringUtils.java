@@ -1,1 +1,1 @@
-This file contains String related the functions
+The updated string functions
